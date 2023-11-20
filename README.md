@@ -1,14 +1,14 @@
 # 3-column-preview-card-component-main
 
-[Description brève du projet]
+This is front mentor exercise with html and css which consists of horizontally aligning cards
 
 ## Aperçu
 
-[Capture d'écran ou description concise du produit / projet]: (https://lea225.github.io/3-column-preview-card-component-main/)
+[View the project]: (https://lea225.github.io/3-column-preview-card-component-main/)
 
 ## Installation
 
-[Instructions pour installer votre projet]
+[Instructions for installing the project]
 
 ```bash
 git clone (https://github.com/Lea225/3-column-preview-card-component-main/tree/main)
